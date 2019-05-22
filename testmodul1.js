@@ -2,7 +2,7 @@
 
 var numbers = [];
 var randomNum
-var arrLength = 10   // Задаем длинну массива
+var arrLength = 10000   // Задаем длинну массива
 var numScale = 1000   // Задаем максимальный размер числа
 
 for (var i = 0; i <= arrLength; i++ ){                         //Генерируем случайные числа
